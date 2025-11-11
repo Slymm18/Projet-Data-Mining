@@ -1,4 +1,3 @@
 streamlit
-Orange
+Orange3
 pandas
-pickle
